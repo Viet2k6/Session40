@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Danh mục 1",
+      "status": "inactive",
+      "description": "Các loại sách"
+    },
+    {
+      "id": "2",
+      "name": "Danh mục 2",
+      "status": "active",
+      "description": "Đồ ăn vặt"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "code": "SP001",
+      "name": "Bánh Quy",
+      "category": "1",
+      "price": 10000,
+      "status": "active",
+      "image": "https://res.cloudinary.com/viet2k6/image/upload/v1759247881/emngnl6meo5znd55xjvx.jpg"
+    },
+    {
+      "id": "2",
+      "code": "SP002",
+      "name": "Truyện Doraemon",
+      "category": "1",
+      "price": 18000,
+      "status": "inactive",
+      "image": "https://res.cloudinary.com/viet2k6/image/upload/v1759247832/zwwnwzicmeohemgiuvsy.jpg"
+    },
+    {
+      "id": "d8e90239-3452-48a5-8854-5347dfc403f1",
+      "code": "SP003",
+      "name": "Kẹo",
+      "category": "2",
+      "price": 12000,
+      "status": "active",
+      "image": "https://res.cloudinary.com/viet2k6/image/upload/v1759247553/gtdujvempyeq9fq7y5eh.jpg"
+    }
+  ]
+}
